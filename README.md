@@ -1,6 +1,6 @@
 # Moonlight for Tizen
 An easy method for building Moonlight for Samsung TV
-#### OneLiberty repo with many fixes that I haven't fixed in this repo yet go check out: https://github.com/OneLiberty/moonlight-chrome-tizen
+#### (This one is outdated) OneLiberty repo with many fixes that I haven't fixed in this repo yet go check out: https://github.com/OneLiberty/moonlight-chrome-tizen
 
 ## Credits
 - Moonlight developers: https://moonlight-stream.org
